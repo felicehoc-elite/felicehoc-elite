@@ -5,6 +5,5 @@ My tech stack - Docker, Python, Django, DjangoRestFramework, Postgresql/Mysql, H
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning clean architecture
-- 📫 How to reach me: `felicehoc.0206@gmail.com`
 
 If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
