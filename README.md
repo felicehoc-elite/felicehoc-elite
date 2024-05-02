@@ -1,4 +1,4 @@
-# <a href = https://felicehoc-elite.github.io/> Senior Web Expert</a> 
+# Senior Web Expert
 Full Stack Developer and teacher focused on Python/Django and React.js, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 
 My tech stack - Docker, Python, Django, DjangoRestFramework, Postgresql/Mysql, HTML, CSS, Bootstrap, React.js, git, AWS.
